@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/94240736/179011529-91ccc5d6-9350-45b2-81f1-deea01e82fac.png)
+
 <!--
 **LGMoreno96/LGMoreno96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
