@@ -1,24 +1,24 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" height="200"/>
 </div>  
   
 
 ### <div align="center">I'm Luis Guillermo, a Production Engineer and Full-Stack Software Developer 👨‍💻 coding since 2021🚀</div>  
   
 
--  👀 I’m looking for positions as a web developer.  
+- 👀 I’m looking for positions as a web developer.  
   
 
 - 🌱 I’m currently learning React Native, Python and Data Science.  
   
 
-- 💡  Passionate with problem solving and daily routines automation.  
+- 💡 Passionate about problem solving and daily routines automation.  
   
 
 - 📬 How to reach me: l.guillermo01@gmail.com  
   
 
--   ⚡ Fun fact: My favorite card game is Koi-Koi🎴  
+- ⚡ Fun fact: My favorite card game is Koi-Koi🎴  
   
 
 <br/>  
