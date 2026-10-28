@@ -1,87 +1,26 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" height="200"/>
-</div>  
-  
+# Luis Guillermo Moreno Lombardo
 
-### <div align="center">I'm Luis Guillermo, a Production Engineer and Full-Stack Software Developer 👨‍💻 coding since 2021🚀</div>  
-  
+**Lead Data Scientist.** I build the path from raw operational data to a decision someone makes on Monday: the pipeline, the model, and the report.
 
-- 👀 I’m looking for positions as a web developer.  
-  
+I lead the data work at MHP Sales Manager, an AI-powered sales and leasing platform. That covers analytics engineering, BI, and machine learning the sales and marketing teams use every week. When the data work needs a product change, I ship it in TypeScript too.
 
-- 🌱 I’m currently learning React Native, Python and Data Science.  
-  
+I started as a production engineer, automating plant processes, then moved into software. I later completed an MSc in Data Science, Summa Cum Laude, at Pontificia Universidad Católica de Chile.
 
-- 💡 Passionate about problem solving and daily routines automation.  
-  
+## Selected work
 
-- 📬 How to reach me: l.guillermo01@gmail.com  
-  
+- Weekly growth review across ads, sales and CRM. Over four months versus the prior four: ad spend down 12%, leads up about 10%, cost per closed deal down 33%.
+- Daily ELT from ad-level data into CRM funnel stages, checked against the CRM (99.99% of stage comparisons match).
+- A Python engine that sends the weekly client report, with the written narrative validated against a JSON contract. About 80% less time per report.
+- Machine learning in production: lead scoring, forecasting, a RAG chatbot, and GPT fine-tuning.
 
-- ⚡ Fun fact: My favorite card game is Koi-Koi🎴  
-  
+## How I work
 
-<br/>  
+Every analysis has to change a decision. I validate the data before anyone depends on it, and I ship with code review, automated tests, and AI-assisted development.
 
+## Stack
 
-## My Skill Set  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>  
+Python (pandas, scikit-learn) · SQL · PostgreSQL · BigQuery · Databox · Power BI · TypeScript · React · Git
 
-<br/>  
+## Contact
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/LGMoreno96" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/LGMoreno96" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/luis-guillermo-moreno-lombardo/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/luis.guillermo.moreno.96" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/LGMoreno96" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGMoreno96&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LGMoreno96&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=LGMoreno96&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
+[LinkedIn](https://www.linkedin.com/in/luis-guillermo-moreno-lombardo/)
