@@ -19,16 +19,19 @@ Every analysis has to change a decision. I validate the data before anyone depen
 
 ## Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,postgres,ts,react,git&perline=6" alt="Python, scikit-learn, PostgreSQL, TypeScript, React and Git" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![Databox](https://img.shields.io/badge/Databox-0F172A?style=flat)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-Python (pandas, scikit-learn) · SQL · PostgreSQL · BigQuery · Databox · Power BI · TypeScript · React · Git
+Python and SQL for the weekly analysis. TypeScript and React when that work lands in the product.
 
 ## Contact
 
