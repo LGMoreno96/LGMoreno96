@@ -19,6 +19,15 @@ Every analysis has to change a decision. I validate the data before anyone depen
 
 ## Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,sklearn,postgres,ts,react,git&perline=6" alt="Python, scikit-learn, PostgreSQL, TypeScript, React and Git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+</p>
+
 Python (pandas, scikit-learn) · SQL · PostgreSQL · BigQuery · Databox · Power BI · TypeScript · React · Git
 
 ## Contact
