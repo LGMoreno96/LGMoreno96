@@ -32,4 +32,6 @@ Python (pandas, scikit-learn) · SQL · PostgreSQL · BigQuery · Databox · Pow
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/luis-guillermo-moreno-lombardo/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/LGMoreno96)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:l.guillermo01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-guillermo-moreno-lombardo/)
