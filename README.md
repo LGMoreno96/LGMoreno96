@@ -1,6 +1,6 @@
 # Luis Guillermo Moreno Lombardo
 
-**Lead Data Scientist.** I build the path from raw operational data to a decision someone makes on Monday: the pipeline, the model, and the report.
+**Lead Data Scientist.** I build the pipeline, the model, and the report from operational data.
 
 I lead the data work at MHP Sales Manager, an AI-powered sales and leasing platform. That covers analytics engineering, BI, and machine learning the sales and marketing teams use every week. When the data work needs a product change, I ship it in TypeScript too.
 
