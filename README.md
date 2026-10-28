@@ -31,8 +31,6 @@ Every analysis has to change a decision. I validate the data before anyone depen
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-Python and SQL for the weekly analysis. TypeScript and React when that work lands in the product.
-
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/LGMoreno96)
